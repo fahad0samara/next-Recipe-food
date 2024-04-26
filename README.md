@@ -3,6 +3,9 @@
 
 This is a simple Recipe App built using Next.js. It allows users to search for recipes by category or by name and view detailed information about each recipe, including ingredients, instructions, and a video tutorial if available.
 
+![next5](https://github.com/fahad0samara/next-Recipe-food/assets/90055525/9710e165-2a05-4630-8d6f-5805577c36d9)
+
+
 ## Features
 
 - Search for recipes by category or name
